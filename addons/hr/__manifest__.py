@@ -7,7 +7,7 @@
     'category': 'Human Resources/Employees',
     'sequence': 95,
     'summary': 'Centralize employee information',
-    'website': 'https://www.odoo.com/app/employees',
+    'website': 'https://erp.novianto.tech/app/employees',
     'images': [
         'images/hr_department.jpeg',
         'images/hr_employee.jpeg',

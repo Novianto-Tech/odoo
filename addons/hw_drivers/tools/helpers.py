@@ -275,7 +275,7 @@ def load_certificate():
     if not (db_uuid and enterprise_code):
         return "ERR_IOT_HTTPS_LOAD_NO_CREDENTIAL"
 
-    url = 'https://www.odoo.com/odoo-enterprise/iot/x509'
+    url = 'https://erp.novianto.tech/odoo-enterprise/iot/x509'
     data = {
         'params': {
             'db_uuid': db_uuid,

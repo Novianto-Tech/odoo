@@ -5,7 +5,7 @@
     'name': 'IoT Box Homepage',
     'category': 'Sales/Point of Sale',
     'sequence': 6,
-    'website': 'https://www.odoo.com/app/point-of-sale-hardware',
+    'website': 'https://erp.novianto.tech/app/point-of-sale-hardware',
     'summary': 'A homepage for the IoT Box',
     'description': """
 IoT Box Homepage

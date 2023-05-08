@@ -16,7 +16,7 @@
     """,
 
     'author': "Odoo",
-    'website': "https://www.odoo.com",
+    'website': "https://erp.novianto.tech",
     'category': 'Accounting/Localizations/Sale',
     'version': '0.1',
 

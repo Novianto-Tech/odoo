@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of NTERP. See LICENSE file for full copyright and licensing details.
 
 import ast
 import collections.abc
@@ -27,7 +27,7 @@ _DEFAULT_MANIFEST = {
     'application': False,
     'bootstrap': False,  # web
     'assets': {},
-    'author': 'Odoo S.A.',
+    'author': 'NTERP S.A.',
     'auto_install': False,
     'category': 'Uncategorized',
     'data': [],

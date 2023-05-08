@@ -18,7 +18,7 @@
 E-invoice implementation
     """,
     'category': 'Accounting/Localizations/EDI',
-    'website': 'http://www.odoo.com/',
+    'website': 'http://erp.novianto.tech/',
     'data': [
         'security/ir.model.access.csv',
         'data/account_edi_data.xml',

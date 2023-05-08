@@ -40,7 +40,7 @@
                                 <div class="content-group">
                                     <div class="row mt8">
                                         <label class="col-lg-3" string="Domain" for="website_domain"/>
-                                        <field name="website_domain" placeholder="https://www.odoo.com" title="Display this website when users visit this domain"/>
+                                        <field name="website_domain" placeholder="https://erp.novianto.tech" title="Display this website when users visit this domain"/>
                                     </div>
                                     <div class="row mt8">
                                         <label class="col-lg-3" string="Homepage URL" for="website_homepage_url"/>
@@ -115,7 +115,7 @@
                             </div>
                             <div class="o_setting_right_pane">
                                 <label for="website_cookies_bar"/>
-                                <a href="https://www.odoo.com/documentation/16.0/applications/websites/website/configuration/cookies_bar.html" title="Documentation" class="o_doc_link" target="_blank"></a>
+                                <a href="https://erp.novianto.tech/documentation/16.0/applications/websites/website/configuration/cookies_bar.html" title="Documentation" class="o_doc_link" target="_blank"></a>
                                 <div class="text-muted">
                                     Display a customizable cookies bar on your website
                                 </div>
@@ -172,7 +172,7 @@
                                     </div>
                                 </div>
                                 <div attrs="{'invisible': [('has_google_analytics', '=', False)]}">
-                                    <a href="https://www.odoo.com/documentation/16.0/applications/websites/website/optimize/google_analytics.html"
+                                    <a href="https://erp.novianto.tech/documentation/16.0/applications/websites/website/optimize/google_analytics.html"
                                             class="oe_link" target="_blank">
                                         <i class="fa fa-arrow-right"/>
                                         How to get my Measurement ID
@@ -284,7 +284,7 @@
                                     </div>
                                 </div>
                                 <div attrs="{'invisible': [('has_plausible_shared_key', '=', False)]}">
-                                    <a href="https://www.odoo.com/documentation/16.0/applications/websites/website/reporting/plausible.html"
+                                    <a href="https://erp.novianto.tech/documentation/16.0/applications/websites/website/reporting/plausible.html"
                                             class="oe_link" target="_blank">
                                         <i class="fa fa-arrow-right"/>
                                         How to create my Plausible Shared Link

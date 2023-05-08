@@ -9,7 +9,7 @@
        Special thanks to Plementus <info@plementus.com> for their help in developing this module.
     """,
     'author': 'odoo',
-    'website': 'https://www.odoo.com',
+    'website': 'https://erp.novianto.tech',
     'category': 'account',
     'version': '0.2',
     'license': 'LGPL-3',

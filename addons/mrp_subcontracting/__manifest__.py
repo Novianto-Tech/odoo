@@ -5,7 +5,7 @@
     'name': "mrp_subcontracting",
     'version': '0.1',
     'summary': "Subcontract Productions",
-    'website': 'https://www.odoo.com/app/manufacturing',
+    'website': 'https://erp.novianto.tech/app/manufacturing',
     'category': 'Manufacturing/Manufacturing',
     'depends': ['mrp'],
     'data': [

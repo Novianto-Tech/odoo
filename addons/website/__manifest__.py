@@ -6,7 +6,7 @@
     'category': 'Website/Website',
     'sequence': 20,
     'summary': 'Enterprise website builder',
-    'website': 'https://www.odoo.com/app/website',
+    'website': 'https://erp.novianto.tech/app/website',
     'version': '1.0',
     'depends': [
         'digest',

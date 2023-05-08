@@ -4,7 +4,7 @@
     'name': 'Events Sales',
     'version': '1.2',
     'category': 'Marketing/Events',
-    'website': 'https://www.odoo.com/app/events',
+    'website': 'https://erp.novianto.tech/app/events',
     'description': """
 Creating registration with sales orders.
 ========================================

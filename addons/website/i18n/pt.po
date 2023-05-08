@@ -11247,7 +11247,7 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "https://www.odoo.com"
+msgid "https://erp.novianto.tech"
 msgstr ""
 
 #. module: website

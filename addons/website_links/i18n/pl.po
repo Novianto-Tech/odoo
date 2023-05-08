@@ -341,8 +341,8 @@ msgstr "np. Wyszukiwarka, strona internetowa, ..."
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
-msgid "e.g. https://www.odoo.com/contactus"
-msgstr "np. https://www.odoo.com/contactus"
+msgid "e.g. https://erp.novianto.tech/contactus"
+msgstr "np. https://erp.novianto.tech/contactus"
 
 #. module: website_links
 #. openerp-web

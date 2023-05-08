@@ -16,7 +16,7 @@ Vendor: Odoo S.A. <info@odoo.com>
 Requires: sassc
 BuildRequires: python3-devel
 BuildRequires: pyproject-rpm-macros
-Url: https://www.odoo.com
+Url: https://erp.novianto.tech
 
 %description
 Odoo is a complete ERP and CRM. The main features are accounting (analytic

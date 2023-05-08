@@ -8,7 +8,7 @@ import { browser } from "../../core/browser/browser";
 import { registry } from "../../core/registry";
 
 function documentationItem(env) {
-    const documentationURL = "https://www.odoo.com/documentation/16.0";
+    const documentationURL = "https://erp.novianto.tech/documentation/16.0";
     return {
         type: "item",
         id: "documentation",

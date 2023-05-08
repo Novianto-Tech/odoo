@@ -322,8 +322,8 @@ msgstr "ví dụ: máy tìm kiếm, trang Web,.."
 
 #. module: website_links
 #: model_terms:ir.ui.view,arch_db:website_links.create_shorten_url
-msgid "e.g. https://www.odoo.com/contactus"
-msgstr "Ví dụ: https://www.odoo.com/contactus"
+msgid "e.g. https://erp.novianto.tech/contactus"
+msgstr "Ví dụ: https://erp.novianto.tech/contactus"
 
 #. module: website_links
 #. openerp-web

@@ -1,4 +1,4 @@
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Part of NTERP. See LICENSE file for full copyright and licensing details.
 """
 ================
 IrQWeb / ir.qweb
@@ -12,7 +12,7 @@ Technical documentation of the python operation of the rendering QWeb engine.
 Templating
 ==========
 
-QWeb is the primary templating engine used by Odoo. It is an XML templating
+QWeb is the primary templating engine used by NTERP. It is an XML templating
 engine and used mostly to generate XML, HTML fragments and pages.
 
 Template directives are specified as XML attributes prefixed with ``t-``,
@@ -24,7 +24,7 @@ which executes its directive but doesn't generate any output in and of
 itself.
 
 To create new XML template, please see :doc:`QWeb Templates documentation
-<https://www.odoo.com/documentation/16.0/developer/reference/frontend/qweb.html>`
+<https://erp.novianto.tech/documentation/16.0/developer/reference/frontend/qweb.html>`
 
 Rendering process
 =================
@@ -65,7 +65,7 @@ in the IrQweb class.
 
 .. code-block:: rst
 
-    Odoo
+    NTERP
      ┗━► _render (returns MarkupSafe)
         ┗━► _compile (returns function)                                        ◄━━━━━━━━━━┓
            ┗━► _compile_node (returns code string array)                       ◄━━━━━━━━┓ ┃
@@ -184,7 +184,7 @@ Only validate the **input**, the compilation if inside the ``t-if`` directive.
 **Values**: name of the allowed odoo user group, or preceded by ``!`` for
 prohibited groups
 
-The generated code uses ``user_has_groups`` Odoo method.
+The generated code uses ``user_has_groups`` NTERP method.
 
 ``t-foreach``
 ~~~~~~~~~~~~~

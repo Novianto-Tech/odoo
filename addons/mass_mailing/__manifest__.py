@@ -6,7 +6,7 @@
     'summary': 'Design, send and track emails',
     'version': '2.5',
     'sequence': 60,
-    'website': 'https://www.odoo.com/app/email-marketing',
+    'website': 'https://erp.novianto.tech/app/email-marketing',
     'category': 'Marketing/Email Marketing',
     'depends': [
         'contacts',
